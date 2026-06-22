@@ -1,6 +1,9 @@
  <p align="center">
-<a href="https://micha.atabook.org/"</a>atabookㅤㅤ<a href="https://rentry.co/RK800ANDR0ID/"</a>directory.ㅤㅤ<a href="https://rentry.co/aphalfred"</a>rentry.
-    </p>
+  <a href="https://atabook.org">atabook</a> &nbsp; 
+  <a href="https://rentry.co">directory.</a> &nbsp; 
+  <a href="https://rentry.co">rentry.</a>
+</p>
+
 
 
 <p align="center">
