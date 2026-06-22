@@ -1,9 +1,9 @@
  <p align="center">
-  <a href="https://atabook.org"><kbd>♡ atabook</kbd></a>
+  <a href="https://micha.atabook.org"><kbd>♡ atabook</kbd></a>
   &nbsp;•&nbsp;
-  <a href="https://rentry.co"><kbd>ᰔ directory</kbd></a>
+  <a href="https://rentry.co/RK800ANDR0ID"><kbd>ᰔ directory</kbd></a>
   &nbsp;•&nbsp;
-  <a href="https://rentry.co"><kbd>୧ rentry</kbd></a>
+  <a href="https://rentry.co/aphalfred"><kbd>୧ rentry</kbd></a>
 </p>
 <p align="center">
 𝚌𝚕𝚒𝚌𝚔 ^
