@@ -1,10 +1,12 @@
  <p align="center">
-  <a href="https://atabook.org">atabook</a> &nbsp; 
-  <a href="https://rentry.co">directory.</a> &nbsp; 
-  <a href="https://rentry.co">rentry.</a>
+  <a href="https://atabook.org"><kbd>♡ atabook</kbd></a>
+  &nbsp;•&nbsp;
+  <a href="https://rentry.co"><kbd>ᰔ directory</kbd></a>
+  &nbsp;•&nbsp;
+  <a href="https://rentry.co"><kbd>୧ rentry</kbd></a>
 </p>
-
-
+<p align="center">
+𝚌𝚕𝚒𝚌𝚔 ^
 
 <p align="center">
    <img src="https://files.catbox.moe/ib3vsm.png"
@@ -12,7 +14,7 @@
     </p>
 
 <p align="center">
-world's foulest. ac : artisfaction on tumblr
+𝚠𝚘𝚛𝚕𝚍'𝚜 𝚏𝚘𝚞𝚕𝚎𝚜𝚝. 𝚊𝚌: 𝚊𝚛𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚘𝚗 𝚃𝚞𝚖𝚋𝚕𝚛.
 
 ![](https://komarev.com/ghpvc/?username=aeszz)
 
