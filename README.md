@@ -16,7 +16,7 @@
 <p align="center">
 𝚠𝚘𝚛𝚕𝚍'𝚜 𝚏𝚘𝚞𝚕𝚎𝚜𝚝. 𝚊𝚌: 𝚊𝚛𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚘𝚗 𝚃𝚞𝚖𝚋𝚕𝚛.
 
-![](https://komarev.com/ghpvc/?username=aeszz)
+![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
 
 
 <!--
