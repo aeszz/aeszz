@@ -32,6 +32,11 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
   
 </details>
 
+<p align="center">
+  <img src="https://files.catbox.moe/2pf5n0.png" alt="image alt" width="100%">
+</p>
+
+
 <!--
 **aeszz/aeszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
