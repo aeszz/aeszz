@@ -38,7 +38,7 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 
 <p align="center">
 more links: 
-<a href="https://rentry.co/bloodyredempion"><kbd>♡ ext</kbd></a>
+<a href="https://rentry.co/bloodyredemption"><kbd>♡ ext</kbd></a>
   &nbsp;•&nbsp;
   <a href="https://rentry.co/thebestinthewest"><kbd>ᰔ rentry 2</kbd></a>
   &nbsp;•&nbsp;
