@@ -36,6 +36,13 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
   <img src="https://files.catbox.moe/2pf5n0.png" alt="image alt" width="100%">
 </p>
 
+<p align="center">
+more links: 
+<a href="https://rentry.co/bloodyredempion"><kbd>♡ ext</kbd></a>
+  &nbsp;•&nbsp;
+  <a href="https://rentry.co/thebestinthewest"><kbd>ᰔ rentry 2</kbd></a>
+  &nbsp;•&nbsp;
+
 
 <!--
 **aeszz/aeszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
