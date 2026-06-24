@@ -28,7 +28,7 @@
 <details>
   <summary>byi</summary>
   
-i sometimes take long breaks from pt & im busy. i also get burnt out from chatting. im a minor but i dont like getting belittled unless close.  
+i sometimes take long breaks from pt & im busy. i also get burnt out from chatting. im a minor but i dont like getting belittled unless close. i ahev mood swings lol dont expect me to be nice all the time  
   
 </details>
 
