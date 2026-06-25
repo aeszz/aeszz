@@ -54,7 +54,7 @@ more links:
 <details>
   <summary>interests</summary>
   
-  I have a lot but my current ones are dc, history, hetalia, b99, sherlock holmes, assassins creed, rdr2, rdr, batman games. if u want a full list,   <a href="https://rentry.co/piratescaribean"><kbd>interests</kbd></a>
+  I have a lot but my current ones are dc, history, hetalia, b99, sherlock holmes, assassins creed, rdr2, rdr, batman games. if u want a full list,   <a href="(https://rentry.co/piratescaribbean)"><kbd>interests</kbd></a>
 
    
   
