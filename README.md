@@ -9,6 +9,7 @@
   <a href="https://rentry.co/aphalfred"><kbd>୧ rentry</kbd></a>
   •&nbsp;
   <a href="https://rentry.co/worIdsfinest"><kbd>୧ matching</kbd></a>
+  <a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
 </p>
 <p align="center">
 𝚌𝚕𝚒𝚌𝚔 ^
