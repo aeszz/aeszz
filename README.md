@@ -45,10 +45,20 @@ more links:
   &nbsp;•&nbsp;
   <a href="https://rentry.co/thebestinthewest"><kbd>ᰔ rentry 2</kbd></a>
   &nbsp;•&nbsp;
+  
+<p align="center">
+   <img src="https://files.catbox.moe/ytkfq8.png"
+   [image alt](https://files.catbox.moe/ytkfq8.png)
+    </p>
+    
+ <p align="center">
 
+   
 <p align="center">
   <img src="https://files.catbox.moe/o70nbg.png" alt="image alt" width="150%">
 </p>
+
+
 <!--
 **aeszz/aeszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
