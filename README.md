@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/phvwfv.png" alt="image alt" width="100%">
+<img src="https://files.catbox.moe/y8k778.png" alt="image alt" width="100%">
 </p>
 <p align="center">
   <a href="https://micha.atabook.org"><kbd>♡ atabook</kbd></a>
@@ -55,7 +55,7 @@ more links:
 
    
 <p align="center">
-  <img src="https://files.catbox.moe/d4addm.png" alt="image alt" width="150%">
+  <img src="https://files.catbox.moe/ma6lbd.png" alt="image alt" width="150%">
 </p>
 
 
