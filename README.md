@@ -1,4 +1,7 @@
- <p align="center">
+<p align="center">
+<img src="https://files.catbox.moe/1je1ft.png" alt="image alt" width="100%">
+</p>
+<p align="center">
   <a href="https://micha.atabook.org"><kbd>♡ atabook</kbd></a>
   &nbsp;•&nbsp;
   <a href="https://rentry.co/RK800ANDR0ID"><kbd>ᰔ directory</kbd></a>
@@ -23,7 +26,7 @@
 <details>
   <summary>dni</summary>
   
-  dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt politics, ableist, HUGE ego, makes threats at me (unless close), transphobic, anyone under 14, over 25, 0verly religious, refusing to acknowledge mistakes, ghosts often, pedos, racists, white supremacists, fetishizers of lgbtq, bigots. PLEASE IF YOU ARE ANY WAY CONTROVERSIAL DO NOT TRY TO INTERACT WITH ME OR MY FRIENDS. I DONT WANT TO BE ASSOCIATED WITH YOU, EVEN IF I DONT KNOW WHAT CONTROVERSY YOURE A PART OF.   
+  dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt politics, ableist, HUGE ego, makes threats at me (unless close), transphobic, anyone under 14, over 25, 0verly religious, refusing to acknowledge mistakes, ghosts often, pedos, racists, white supremacists, fetishizers of lgbtq, bigots. 
    
   
 </details>
@@ -35,9 +38,6 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
   
 </details>
 
-<p align="center">
-  <img src="https://files.catbox.moe/2pf5n0.png" alt="image alt" width="100%">
-</p>
 
 <p align="center">
 more links: 
@@ -46,7 +46,9 @@ more links:
   <a href="https://rentry.co/thebestinthewest"><kbd>ᰔ rentry 2</kbd></a>
   &nbsp;•&nbsp;
 
-
+<p align="center">
+  <img src="https://files.catbox.moe/o70nbg.png" alt="image alt" width="150%">
+</p>
 <!--
 **aeszz/aeszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
