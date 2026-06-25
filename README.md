@@ -34,7 +34,7 @@
 <details>
   <summary>byi</summary>
   
-i sometimes take long breaks from pt & im busy. i also get burnt out from chatting. im a minor but i dont like getting belittled unless close. i ahev mood swings lol dont expect me to be nice all the time. PLEASE IF YOU ARE ANY WAY CONTROVERSIAL DO NOT TRY TO INTERACT WITH ME OR MY FRIENDS. I DONT WANT TO BE ASSOCIATED WITH YOU, EVEN IF I DONT KNOW WHAT CONTROVERSY YOURE A PART OF. its insane i needed to say this twice. 
+i sometimes take long breaks from pt & im busy. i also get burnt out from chatting. im a minor but i dont like getting belittled unless close. i ahev mood swings lol dont expect me to be nice all the time. im also uncomfortable with flirting. PLEASE IF YOU ARE ANY WAY CONTROVERSIAL DO NOT TRY TO INTERACT WITH ME OR MY FRIENDS. I DONT WANT TO BE ASSOCIATED WITH YOU, EVEN IF I DONT KNOW WHAT CONTROVERSY YOURE A PART OF. its insane i needed to say this twice. 
   
 </details>
 
