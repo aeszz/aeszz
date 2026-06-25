@@ -47,13 +47,19 @@ more links:
   &nbsp;•&nbsp;
   
 <p align="center">
-   <img src="https://files.catbox.moe/ytkfq8.png"
-   [image alt](https://files.catbox.moe/ytkfq8.png)
+   <img src="https://files.catbox.moe/nsev0k.png"
+   [image alt](https://files.catbox.moe/nsev0k.png)
     </p>
     
- <p align="center">
+<details>
+  <summary>interests</summary>
+  
+  I have a lot but my current ones are dc, history, hetalia, b99, sherlock holmes, assassins creed, rdr2, rdr, batman games. if u want a full list,   <a href="https://rentry.co/piratescarribean"><kbd>interests</kbd></a>
 
    
+  
+</details>
+
 <p align="center">
   <img src="https://files.catbox.moe/ma6lbd.png" alt="image alt" width="150%">
 </p>
