@@ -50,11 +50,6 @@ more links:
   <a href="https://rentry.co/thebestinthewest"><kbd>ᰔ rentry 2</kbd></a>
   &nbsp;•&nbsp;
   <a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
-  
-<p align="center">
-   <img src="https://files.catbox.moe/nsev0k.png"
-   [image alt](https://files.catbox.moe/nsev0k.png)
-    </p>
     
 <details>
   <summary>interests</summary>
