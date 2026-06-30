@@ -45,7 +45,7 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 
 <p align="center">
 more links: 
-<a href="https://rentry.co/bloodyredemption"><kbd>♡ ext</kbd></a>
+<a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
   &nbsp;•&nbsp;
 <a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
     
