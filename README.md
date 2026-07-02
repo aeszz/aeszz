@@ -18,8 +18,7 @@
 𝚌𝚕𝚒𝚌𝚔 ^
 
 <p align="center">
-   <img src="https://files.catbox.moe/hi5zqf.png"
-   [image alt](https://files.catbox.moe/hi5zqf.png)
+  <img src="https://files.catbox.moe/hi5zqf.png" width="500" />
     </p>
 
 
