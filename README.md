@@ -18,12 +18,10 @@
 𝚌𝚕𝚒𝚌𝚔 ^
 
 <p align="center">
-   <img src="https://files.catbox.moe/ib3vsm.png"
-   [image alt](https://files.catbox.moe/ib3vsm.png)
+   <img src="https://files.catbox.moe/hi5zqf.png"
+   [image alt](https://files.catbox.moe/hi5zqf.png)
     </p>
 
-<p align="center">
-𝚠𝚘𝚛𝚕𝚍'𝚜 𝚏𝚘𝚞𝚕𝚎𝚜𝚝. 𝚊𝚌: 𝚊𝚛𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚘𝚗 𝚃𝚞𝚖𝚋𝚕𝚛.
 
 ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
 
