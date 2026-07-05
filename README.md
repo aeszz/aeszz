@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/y8k778.png" alt="image alt" width="100%">
+<img src="https://files.catbox.moe/vjh2qb.png" alt="image alt" width="100%">
 </p>
 <p align="center">
   <a href="https://micha.atabook.org"><kbd>♡ ata</kbd></a>
@@ -12,8 +12,6 @@
    •&nbsp;
     <a href="https://rentry.co/michaelslovemail"><kbd>୧ lovemail</kbd></a>
   </p>
-<p align="center">
-𝚌𝚕𝚒𝚌𝚔 ^
 
 <p align="center">
   <img src="https://files.catbox.moe/hi5zqf.png" width="500" />
@@ -58,7 +56,7 @@ more links:
 </details>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ma6lbd.png" alt="image alt" width="150%">
+  <img src="https://files.catbox.moe/ubx8sd.png" alt="image alt" width="150%">
 </p>
 
 
