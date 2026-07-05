@@ -10,9 +10,6 @@
   •&nbsp;
   <a href="https://rentry.co/worIdsfinest"><kbd>୧ matching</kbd></a>
    •&nbsp;
-  <a href="https://rentry.co/kal-eI"><kbd>2nd main</kbd></a>
-   •&nbsp
-  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
   </p>
 <p align="center">
 𝚌𝚕𝚒𝚌𝚔 ^
@@ -45,6 +42,10 @@ more links:
 <a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
   &nbsp;•&nbsp;
 <a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
+  •&nbsp
+  <a href="https://rentry.co/kal-eI"><kbd>2nd main</kbd></a>
+   •&nbsp
+  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
     
 <details>
   <summary>interests</summary>
