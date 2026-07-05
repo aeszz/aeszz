@@ -2,7 +2,7 @@
 <img src="https://files.catbox.moe/y8k778.png" alt="image alt" width="100%">
 </p>
 <p align="center">
-  <a href="https://micha.atabook.org"><kbd>♡ atabook</kbd></a>
+  <a href="https://micha.atabook.org"><kbd>♡ ata</kbd></a>
   &nbsp;•&nbsp;
   <a href="https://rentry.co/thejusticeIeague"><kbd>ᰔ group matching <3</kbd></a>
   &nbsp;•&nbsp;
