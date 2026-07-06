@@ -56,7 +56,7 @@ more links:
 </details>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ubx8sd.png" alt="image alt" width="150%">
+  <img src="https://files.catbox.moe/r1rcrt.png" alt="image alt" width="150%">
 </p>
 
 
