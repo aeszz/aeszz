@@ -20,6 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
 
+
 <details>
   <summary>dni</summary>
   
@@ -36,15 +37,6 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 </details>
 
 
-<p align="center">
-more links: 
-<a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
-  &nbsp;•&nbsp;
-<a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
-  •&nbsp
-  <a href="https://rentry.co/kal-eI"><kbd>2nd main</kbd></a>
-   •&nbsp
-  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
     
 <details>
   <summary>interests</summary>
@@ -55,7 +47,19 @@ more links:
   
 </details>
 
+<img src="https://files.catbox.moe/u1q57j.gif" alt="image alt" width="100%">
+
 <p align="center">
+more links: 
+<a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
+  &nbsp;•&nbsp;
+<a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
+  •&nbsp
+  <a href="https://rentry.co/kal-eI"><kbd>2nd main</kbd></a>
+   •&nbsp
+  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
+<p align="center">
+  
   <img src="https://files.catbox.moe/r1rcrt.png" alt="image alt" width="150%">
 </p>
 
