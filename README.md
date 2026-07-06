@@ -18,7 +18,7 @@
     </p>
 
 
--> ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐) <-
+ ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
 
 
 <details>
