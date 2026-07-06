@@ -20,6 +20,7 @@
 
  ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
 
+<div align="center">
 
 <details>
   <summary>dni</summary>
@@ -29,6 +30,10 @@
   
 </details>
 
+</div>
+
+<div align="center">
+
 <details>
   <summary>byi</summary>
   
@@ -36,8 +41,10 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
   
 </details>
 
+</div>
 
-    
+<div align="center">
+
 <details>
   <summary>interests</summary>
   
@@ -46,6 +53,8 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
    
   
 </details>
+
+</div>
 
 <img src="https://files.catbox.moe/u1q57j.gif" alt="image alt" width="100%">
 
