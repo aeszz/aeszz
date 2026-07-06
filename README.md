@@ -64,7 +64,7 @@ more links:
   &nbsp;•&nbsp;
 <a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
   •&nbsp
-  <a href="https://rentry.co/kal-eI"><kbd>2nd main</kbd></a>
+  <a href="https://rentry.co/micha-el"><kbd>2nd main</kbd></a>
    •&nbsp
   <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
 <p align="center">
