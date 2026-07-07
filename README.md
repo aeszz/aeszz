@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://micha.atabook.org"><kbd>♡ ata</kbd></a>
   &nbsp;•&nbsp;
-  <a href="https://rentry.co/thejusticeIeague"><kbd>ᰔ group matching <3</kbd></a>
-  &nbsp;•&nbsp;
   <a href="https://rentry.co/aphalfred"><kbd>୧ rentry</kbd></a>
   •&nbsp;
   <a href="https://rentry.co/worIdsfinest"><kbd>୧ matching</kbd></a>
