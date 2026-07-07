@@ -16,7 +16,10 @@ clickable ^
   <img src="https://files.catbox.moe/ky1jvm.png" width="500">
 </p>
 
- ![](https://komarev.com/ghpvc/?username=aeszz&label=fans࿐&color=red)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aeszz&label=fans%E0%BF%90&color=red" alt="aeszz" />
+</p>
+
 
 <div align="center">
 
