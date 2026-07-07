@@ -17,7 +17,7 @@ clickable ^
 </p>
 
 <p align="center">
-$\textcolor{#d46c6c}{\text{she}}$ or any. intj $\textcolor{#7ea3cc}{\text{w2i}}$ offtab. $\textcolor{#d46c6c}{\text{micha}}$/michael/aeszz, or any other nickname is fine. love the dc $\textcolor{#7ea3cc}{\text{trinity}}$ + $\textcolor{#d46c6c}{\text{batfam}}$ ^_^
+𑣲⋆ $\textcolor{#d46c6c}{\text{she}}$ or any. intj $\textcolor{#7ea3cc}{\text{w2i}}$ offtab. $\textcolor{#d46c6c}{\text{micha}}$/michael/aeszz, or any other nickname is fine. love the dc $\textcolor{#7ea3cc}{\text{trinity}}$ + $\textcolor{#d46c6c}{\text{batfam}}$ ^_^ ˎˊ˗
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aeszz&label=fans%E0%BF%90&color=red" alt="aeszz" />
