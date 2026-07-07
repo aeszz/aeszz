@@ -23,6 +23,20 @@ clickable ^
   <img src="https://komarev.com/ghpvc/?username=aeszz&label=fans%E0%BF%90&color=red" alt="aeszz" />
 </p>
 
+<img src="https://files.catbox.moe/u1q57j.gif" alt="image alt" width="100%">
+
+<p align="center">
+more links: 
+<a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
+  &nbsp;•&nbsp;
+<a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
+  •&nbsp
+  <a href="https://rentry.co/micha-el"><kbd>2nd main</kbd></a>
+   •&nbsp
+  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
+  •&nbsp
+  <a href="https://rentry.co/michaelslovemail"><kbd>୧ lovemail</kbd></a>
+<p align="center">
 
 <div align="center">
 
@@ -60,21 +74,6 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 
 </div>
 
-<img src="https://files.catbox.moe/u1q57j.gif" alt="image alt" width="100%">
-
-<p align="center">
-more links: 
-<a href="https://rentry.co/meineIiebe"><kbd>♡ ext</kbd></a>
-  &nbsp;•&nbsp;
-<a href="https://en.pronouns.page/@aeszz"><kbd>pronouns</kbd></a>
-  •&nbsp
-  <a href="https://rentry.co/micha-el"><kbd>2nd main</kbd></a>
-   •&nbsp
-  <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
-  •&nbsp
-  <a href="https://rentry.co/michaelslovemail"><kbd>୧ lovemail</kbd></a>
-<p align="center">
-  
   <img src="https://files.catbox.moe/r1rcrt.png" alt="image alt" width="150%">
 </p>
 
