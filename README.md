@@ -13,7 +13,7 @@ clickable ^
   </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/hi5zqf.png" width="500">
+  <img src="https://files.catbox.moe/ky1jvm.png" width="500">
 </p>
 
  ![](https://komarev.com/ghpvc/?username=aeszz&label=fans࿐)
