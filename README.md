@@ -16,7 +16,7 @@ clickable ^
   <img src="https://files.catbox.moe/hi5zqf.png" width="500">
 </p>
 
- ![](https://komarev.com/ghpvc/?username=aeszz&label=batfans࿐)
+ ![](https://komarev.com/ghpvc/?username=aeszz&label=fans࿐)
 
 <div align="center">
 
