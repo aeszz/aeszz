@@ -36,14 +36,11 @@ more links:
   <a href="https://rentry.co/primehoodlover"><kbd>ship</kbd></a>
   •&nbsp
   <a href="https://rentry.co/michaelslovemail"><kbd>୧ lovemail</kbd></a>
-<p align="center">
-
-<div align="center">
-
-<details>
-  <summary>dni</summary>
   
-  dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt politics, ableist, PROSHIPPER, makes threats at me (unless close), transphobic, anyone under 14, over 25, 0verly religious, refusing to acknowledge mistakes, ghosts often, pedos, racists, white supremacists, fetishizers of lgbtq, bigots. 
+# READ MY DNI. #
+
+
+dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt politics, ableist, PROSHIPPER, makes threats at me (unless close), transphobic, anyone under 14, over 25, 0verly religious, refusing to acknowledge mistakes, ghosts often, pedos, racists, white supremacists, fetishizers of lgbtq, bigots. 
    
   
 </details>
