@@ -9,9 +9,11 @@
 <a href="https://rentry.co/arno-dorian"><img src="https://files.catbox.moe/qm5bgv.png" width="170" alt="gifted by luke"></a>
 </p>
 
-<p align="center">
-clickable ^
-  </p>
+<p align="center"> 
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=911c31&width=550&lines=Krypton+bred+me,+but+it+was+Earth+that+gave+me+all+I+am."
+</a>
+</p>
 
 <p align="center">
   <img src="https://files.catbox.moe/ky1jvm.png" width="500">
@@ -71,6 +73,12 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 </details>
 
 </div>
+
+<p align="center"> 
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=911c31&width=500&lines=Dreams+save+us.+Dreams+lift+us+up+and+transform+us."
+</a>
+</p>
 
   <img src="https://files.catbox.moe/r1rcrt.png" alt="image alt" width="150%">
 </p>
