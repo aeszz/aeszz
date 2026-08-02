@@ -9,10 +9,6 @@
 <a href="https://rentry.co/arno-dorian"><img src="https://files.catbox.moe/qm5bgv.png" width="170" alt="gifted by luke"></a>
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/8tfzzo.png" width="500">
-</p>
-
 <p align="center"> 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=cf1537&width=550&lines=Krypton+bred+me,+but+it+was+Earth+that+gave+me+all+I+am."
