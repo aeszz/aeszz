@@ -74,6 +74,10 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 
 </div>
 
+<p align="center">
+  <img src="https://files.catbox.moe/xs3vfm.png" width="500">
+</p>
+
 <p align="center"> 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=cf1537&width=500&lines=Dreams+save+us.+Dreams+lift+us+up+and+transform+us."
