@@ -11,7 +11,7 @@
 
 <p align="center"> 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=911c31&width=550&lines=Krypton+bred+me,+but+it+was+Earth+that+gave+me+all+I+am."
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=cf1537&width=550&lines=Krypton+bred+me,+but+it+was+Earth+that+gave+me+all+I+am."
 </a>
 </p>
 
@@ -76,7 +76,7 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 
 <p align="center"> 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=911c31&width=500&lines=Dreams+save+us.+Dreams+lift+us+up+and+transform+us."
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=1000&color=cf1537&width=500&lines=Dreams+save+us.+Dreams+lift+us+up+and+transform+us."
 </a>
 </p>
 
