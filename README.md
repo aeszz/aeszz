@@ -25,9 +25,6 @@
 <p align="center">
 𑣲⋆ SOMEONE MIGHT BE IMPERSONATING ME, SO IF I SEND ANY WEIRD/NASTY SHIT ON UR ATA ITS NOT ME!!
 
-<p align="center">
-hi, i dont wanna pick sides in drama, pls leave me alone. im neutral on this, so dont get the wrong idea, thank you, n dont try to isolate my friends away.
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aeszz&label=fans%E0%BF%90&color=red" alt="aeszz" />
