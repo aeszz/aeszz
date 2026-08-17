@@ -30,6 +30,12 @@
   <img src="https://komarev.com/ghpvc/?username=aeszz&label=fans%E0%BF%90&color=red" alt="aeszz" />
 </p>
 
+<p align="center">
+  <img src="https://files.catbox.moe/j6esmz.png" width="250">  <img src="https://files.catbox.moe/ws9nuc.png" width="250">
+</p>
+<p align="center">
+aaa my fav ponies yay
+
 <img src="https://files.catbox.moe/u1q57j.gif" alt="image alt" width="100%">
 
 <p align="center">
@@ -77,6 +83,7 @@ i sometimes take long breaks from pt & im busy. i also get burnt out from chatti
 </details>
 
 </div>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/xs3vfm.png" width="500">
