@@ -21,7 +21,6 @@
 
 <p align="center">
 𑣲⋆ $\textcolor{#d46c6c}{\text{she}}$ or any. intj $\textcolor{#7ea3cc}{\text{w2i}}$ offtab. $\textcolor{#d46c6c}{\text{micha}}$/michael/aeszz, or any other nickname is fine. love the dc $\textcolor{#7ea3cc}{\text{trinity}}$ + $\textcolor{#d46c6c}{\text{batfam}}$ ^_^ ˎˊ˗
-
 <p align="center">
 𑣲⋆ SOMEONE MIGHT BE IMPERSONATING ME, SO IF I SEND ANY WEIRD/NASTY SHIT ON UR ATA ITS NOT ME!!
 
