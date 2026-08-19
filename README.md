@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cosplaytown">cosplaytown</a>
+  <a href="https://github.com/cosplaytown">cosplaytown</a>   ♡
 </p>
 
 <p align="center">
