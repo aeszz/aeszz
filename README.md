@@ -28,7 +28,7 @@
     </td>
     <!-- RIGHT COLUMN: FIXED TEXT WIDTH -->
     <td align="center" width="250" valign="middle">
-      micha / michael ^^ if u see me saying weird shit on someones ata its NOT me. i rlly like dc, mcu, federal germany, prussian empire, HRE, (just mainland europe's history in general) n i lovvv gerame too! no.1 gerame shipper ovr here!!!
+      micha / michael ^^ if u see me saying weird shit on someones ata its NOT me. i rlly like dc, mcu, central europe, prussian empire, HRE, (just mainland europe's history in general) n i lovvv gerame too! no.1 gerame shipper ovr here!!!
     </td>
   </tr>
 </table>
