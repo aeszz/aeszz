@@ -61,6 +61,10 @@ more links:
 
 
 dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt politics, ableist, PROSHIPPER, makes threats at me (unless close), transphobic, anyone under 14, over 25, 0verly religious, refusing to acknowledge mistakes, ghosts often, pedos, racists, white supremacists, fetishizers of lgbtq, bigots. 
+
+# IWC IF: #
+
+iwc/iwec if: rusame shipper, venters, extremists, very sensitive. 
    
   
 </details>
