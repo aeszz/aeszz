@@ -1,5 +1,7 @@
 <!-- TOP BORDER -->
-<div>
+<table border="0">
+  <tr>
+  
 <p align="center">
   <img src="https://64.media.tumblr.com/b921c466430f7aa6f4509d516769f345/d083df8da3513e0a-84/s500x750/42536b43595545a58a17b0b272e2c07a53f78909.pnj" width="100%">
 </p>
@@ -71,6 +73,10 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 
 <!-- CLEAR FLOATS: This stops the layout from breaking elements further down your page -->
 <br clear="left"/>
+
+  </td>
+  </tr>
+</table>
 
 
 
