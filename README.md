@@ -72,7 +72,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 </p>
 
 <!-- CLEAR FLOATS: This stops the layout from breaking elements further down your page -->
-<br clear="left"/>
+<br clear="all"/>
 
   </td>
   </tr>
