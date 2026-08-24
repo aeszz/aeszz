@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://file.garden/aZm568v4vGLII5mz/___photo_vassoula_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
-  ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
+  ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a> ,, view on pc!
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
 <img src="https://file.garden/aZm568v4vGLII5mz/neymar.png" align="left" width="40%"  style="max-width:100%;"
 
