@@ -25,7 +25,7 @@
   <tr>
     <!-- LEFT COLUMN: LOCKED IMAGE SIZE -->
     <td align="center" width="300" valign="middle">
-      <img src="https://files.catbox.moe/tyvdhw.png" width="200">
+      <img src="https://files.catbox.moe/tyvdhw.png" width="150">
       <div align="center">
 
 <details>
