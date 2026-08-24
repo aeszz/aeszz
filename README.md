@@ -1,7 +1,5 @@
 <!-- TOP BORDER -->
-<table border="0">
-  <tr>
-  
+
 <p align="center">
   <img src="https://64.media.tumblr.com/b921c466430f7aa6f4509d516769f345/d083df8da3513e0a-84/s500x750/42536b43595545a58a17b0b272e2c07a53f78909.pnj" width="100%">
 </p>
@@ -9,7 +7,7 @@
 <p align="center">
 ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
-<img src="https://files.catbox.moe/38o5cd.png" align="left" width="35%" style="max-width:100%;">
+<img src="https://files.catbox.moe/38o5cd.png" align="left" width="35%"
 
 <!-- RIGHT CONTENT: Everything below will wrap cleanly next to the image -->
 <!-- 2. Text Links -->
