@@ -1,14 +1,14 @@
 <!-- TOP BORDER -->
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/b921c466430f7aa6f4509d516769f345/d083df8da3513e0a-84/s500x750/42536b43595545a58a17b0b272e2c07a53f78909.pnj" width="100%">
+  <img src="https://file.garden/aZm568v4vGLII5mz/tumblr_76b3fecc7d52a9262e22c0d543433983_020672a2_500__fliter--teal-lightgreen__channel--blue__mode--color.png" width="100%">
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/6j93hc.png" align="middle" width="50"
-  ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
+<img src="https://file.garden/aZm568v4vGLII5mz/___photo_vassoula_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
+  ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
-<img src="https://files.catbox.moe/38o5cd.png" align="left" width="38%"  style="max-width:100%;"
+<img src="https://file.garden/aZm568v4vGLII5mz/neymar.png" align="left" width="38%"  style="max-width:100%;"
 
 <!-- RIGHT CONTENT: Everything below will wrap cleanly next to the image -->
 <!-- 2. Text Links -->
@@ -27,7 +27,7 @@
   <tr>
     <!-- LEFT COLUMN: LOCKED IMAGE SIZE -->
     <td align="center" width="200" valign="middle">
-      <img src="https://files.catbox.moe/tyvdhw.png" width="150">
+      <img src="https://file.garden/aZm568v4vGLII5mz/%F0%93%86%A9_%F0%93%86%AA-removebg-preview__fliter--teal-lightgreen__channel--blue__mode--color.png" width="150">
       <div align="center">
 
 <details>
@@ -64,12 +64,12 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
   <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a>  ♡
 </p>
 
-![](https://komarev.com/ghpvc/?username=aeszz&label=viewers&color=bf0010&style=social)
+![](https://komarev.com/ghpvc/?username=aeszz&label=viewers&color=1c8a46&style=social)
 
 
 <!-- BOTTOM BORDER -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/b8c2e2f9523e706a3c27656fc182d23c/d083df8da3513e0a-e5/s500x750/56b4f18d1d72bac22a35c3d40312893e5219480b.pnj" width="100%">
+  <img src="https://file.garden/aZm568v4vGLII5mz/tumblr_50e3274d1dd125c40c810b075abda25b_8ee003ff_500__fliter--teal-lightgreen__channel--blue__mode--color.png" width="100%">
 </p>
 
 <!-- CLEAR FLOATS: This stops the layout from breaking elements further down your page -->
