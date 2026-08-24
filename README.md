@@ -26,7 +26,7 @@
   <table>
   <tr>
     <!-- LEFT COLUMN: LOCKED IMAGE SIZE -->
-    <td align="center" width="200" valign="middle">
+    <td align="center" width="160" valign="middle">
       <img src="https://file.garden/aZm568v4vGLII5mz/%F0%93%86%A9_%F0%93%86%AA-removebg-preview__fliter--teal-lightgreen__channel--blue__mode--color.png" width="150">
       <div align="center">
 
