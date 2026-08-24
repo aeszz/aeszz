@@ -17,7 +17,7 @@
   <a href="https://rentry.co/worIdsfinest">m/w</a> , , 
   <a href="https://micha.atabook.org/">ata</a> , , 
   <a href="https://rentry.co/aphalfred">rentry</a>  , , 
-    <a href="https://rentry.co/arno-dorian">gifted</a>  𓏲﹕     ﹕⸝⸝
+    <a href="https://rentry.co/arno-dorian">gifted</a>  𓏲﹕     ﹕⸝⸝ <img src="https://64.media.tumblr.com/52947c21f777e89055f323ee9b2017dd/ee48067464f15426-05/s250x400/65c6061396ec0e51071b789ebc323ac1efb9c5d6.pnj" align="middle" width="50"‎ 
   <span> ⟩</span>
   <br/>
   <sub style="color: #6b705c;">aeszz 4 my discord!</sub>
