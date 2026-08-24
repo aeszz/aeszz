@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://files.catbox.moe/6j93hc.png" align="middle" width="50"
- ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
+  ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a>
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
 <img src="https://files.catbox.moe/38o5cd.png" align="left" width="38%"  style="max-width:100%;"
 
@@ -63,6 +63,8 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 <p align="center">
   <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a>  ♡
 </p>
+
+![](https://komarev.com/ghpvc/?username=aeszz&label=viewers&color=bf0010&style=social)
 
 
 <!-- BOTTOM BORDER -->
