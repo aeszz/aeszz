@@ -75,6 +75,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 <p align="center">
   <img src="https://file.garden/aZm568v4vGLII5mz/tumblr_50e3274d1dd125c40c810b075abda25b_8ee003ff_500__fliter--teal-lightgreen__channel--blue__mode--color.png" width="100%">
 </p>
+alsoooo aha iwc if u r a kaiser wilhem ii fan i rlly Hate him my goat will always be otto von bismarck , and rusame shippers. idk i just dont like that ship, n also ppl who vent w/out permission. iwc on all of theszee unless alr friendz/oomfs ok bye >w<
 
 <!-- CLEAR FLOATS: This stops the layout from breaking elements further down your page -->
 <br clear="all"/>
