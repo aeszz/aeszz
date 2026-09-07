@@ -8,7 +8,7 @@
 <img src="https://file.garden/aZm568v4vGLII5mz/___photo_vassoula_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
   ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a> ,, view on pc!
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
-<img src="https://file.garden/aZm568v4vGLII5mz/neymar.png" align="left" width="40%"  style="max-width:100%;"
+<img src="https://files.catbox.moe/tj8pyc.png" align="left" width="40%"  style="max-width:100%;"
 
 <!-- RIGHT CONTENT: Everything below will wrap cleanly next to the image -->
 <!-- 2. Text Links -->
@@ -27,7 +27,7 @@
   <tr>
     <!-- LEFT COLUMN: LOCKED IMAGE SIZE -->
     <td align="center" width="200" valign="middle">
-      <img src="https://file.garden/aZm568v4vGLII5mz/%F0%93%86%A9_%F0%93%86%AA-removebg-preview__fliter--teal-lightgreen__channel--blue__mode--color.png" width="150">
+      <img src="https://files.catbox.moe/v49ndt.png" width="150">
       <div align="center">
 
 <details>
@@ -64,7 +64,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
   <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>  <a href="https://github.com/Ponytowns-rewards">pt's-rewards</a> pt's #1 biggest clark kent n germany fan ♡ <a href="https://github.com/ship-town">ship-town</a> #1 gerame shipper !
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aeszz&label=shots&color=1c8a46&style=social" alt="Badge 1"> <img src="https://file.garden/aZm568v4vGLII5mz/download.png" alt="My Picture" height="20"> <img src="https://img.shields.io/github/followers/aeszz?style=flat&color=1c8a46&label=goals" alt="Badge 2">
+<img src="https://komarev.com/ghpvc/?username=aeszz&label=spells+cast&color=1c8a46&style=social" alt="Badge 1"> <img src="https://file.garden/aZm568v4vGLII5mz/download.png" alt="My Picture" height="20"> <img src="https://img.shields.io/github/followers/aeszz?style=flat&color=1c8a46&label=dark+arts+used" alt="Badge 2">
 
 
 
