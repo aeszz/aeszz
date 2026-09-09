@@ -61,7 +61,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 </table>
 </div>
 <p align="center">
-  <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>  <a href="https://github.com/Ponytowns-rewards">pt's-rewards</a> pt's #1 biggest clark kent n germany fan ♡ <a href="https://github.com/ship-town">ship-town</a> #1 gerame shipper !
+  <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>  <a href="https://github.com/Ponytowns-rewards">pt's-rewards</a> pt's #1 biggest clark kent n germany fan ♡ <a href="https://github.com/ship-town">ship-town</a> #1 gerame shipper ! <a href="https://github.com/pt-heavyfictkin">pt-heavyfictkin</a> seb sallow's kin !!!
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=aeszz&label=spells+cast&color=1c8a46&style=social" alt="Badge 1"> <img src="https://files.catbox.moe/ee41l7.png" alt="wand" height="20"> <img src="https://img.shields.io/github/followers/aeszz?style=flat&color=1c8a46&label=dark+arts+used" alt="Badge 2">
