@@ -33,7 +33,7 @@
 <details>
   <summary>byi</summary>
   
-DO NOT ACT PASSIVE AGGRESSIVE WITH ME. PLZ. i genuienly cant tell when ur actually angry or just teasing. i sometimes take long breaks from pt & im busy. i also get burnt out alot. im a minor but i dont like getting belittled. i have mood swings, my emotions switch very fast.
+DO NOT ACT PASSIVE AGGRESSIVE WITH ME. PLZ. either be nice or dont... i sometimes take long breaks from pt & im busy. i also get burnt out alot. im a minor but i dont like getting belittled. i have mood swings, my emotions switch very fast.
 
 </details>
 
