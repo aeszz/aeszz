@@ -1,14 +1,14 @@
 <!-- TOP BORDER -->
 
 <p align="center">
-  <img src="https://file.garden/aZm568v4vGLII5mz/tumblr_76b3fecc7d52a9262e22c0d543433983_020672a2_500__fliter--teal-lightgreen__channel--blue__mode--color.png" width="100%">
+  <img src="https://64.media.tumblr.com/3050e9d37ae4214983c2c54dccc239b4/420effc76989e2af-9e/s2048x3072/6b3008205c95e7fefffb4e6e41fb0bec3eac0f8e.pnj" width="100%">
 </p>
 
 <p align="center">
-<img src="https://file.garden/aZm568v4vGLII5mz/___photo_vassoula_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
+<img src="https://file.garden/aZm568v4vGLII5mz/download__19_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
   ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a> ,, view on pc!
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
-<img src="https://files.catbox.moe/tj8pyc.png" align="left" width="40%"  style="max-width:100%;"
+<img src="https://file.garden/aZm568v4vGLII5mz/download__18_-removebg-preview.png" align="left" width="36%"  style="max-width:100%;"
 
 <!-- RIGHT CONTENT: Everything below will wrap cleanly next to the image -->
 <!-- 2. Text Links -->
@@ -17,7 +17,7 @@
   <a href="https://rentry.co/worIdsfinest">m/w</a> , , 
   <a href="https://micha.atabook.org/">ata</a> , , 
   <a href="https://rentry.co/aphalfred">rentry</a>  , , 
-    <a href="https://rentry.co/arno-dorian">gifted</a>  𓏲﹕     ﹕⸝⸝ <img src="https://64.media.tumblr.com/52947c21f777e89055f323ee9b2017dd/ee48067464f15426-05/s250x400/65c6061396ec0e51071b789ebc323ac1efb9c5d6.pnj" align="middle" width="50"‎ 
+    <a href="https://rentry.co/arno-dorian">gifted</a>  𓏲﹕     ﹕⸝⸝ <img src="https://file.garden/aZm568v4vGLII5mz/download__20_-removebg-preview.png" align="middle" width="50"‎ 
   <span> ⟩</span>
   <br/>
   <sub style="color: #6b705c;">aeszz 4 my discord!</sub>
@@ -27,7 +27,7 @@
   <tr>
     <!-- LEFT COLUMN: LOCKED IMAGE SIZE -->
     <td align="center" width="200" valign="middle">
-      <img src="https://files.catbox.moe/v49ndt.png" width="150">
+      <img src="https://file.garden/aZm568v4vGLII5mz/Screenshot_2026-10-02_133931-removebg-preview.png" width="150">
       <div align="center">
 
 <details>
@@ -64,7 +64,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
   <a href="https://github.com/cosplaytown">cosplaytown</a> <a href="https://github.com/pt-friendships">pt-friendships</a> <a href="https://github.com/paw-town">paw-town</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>  <a href="https://github.com/Ponytowns-rewards">pt's-rewards</a> pt's #1 biggest clark kent n germany fan ♡ <a href="https://github.com/ship-town">ship-town</a> #1 gerame shipper ! <a href="https://github.com/pt-heavyfictkin">pt-heavyfictkin</a> seb sallow's kin !!!
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aeszz&label=spells+cast&color=1c8a46" alt="Badge 1"> <img src="https://files.catbox.moe/ee41l7.png" alt="wand" height="20"> <img src="https://img.shields.io/github/followers/aeszz?style=flat&color=1c8a46&label=dark+arts+used" alt="Badge 2">
+<img src="https://komarev.com/ghpvc/?username=aeszz&label=duels+fought&color=73352d" alt="Badge 1"> <img src="https://files.catbox.moe/ee41l7.png" alt="wand" height="20"> <img src="https://img.shields.io/github/followers/aeszz?style=flat&color=73352d&label=duels+won" alt="Badge 2">
 
 
 
@@ -73,7 +73,7 @@ dni if: homophobic, sexist, misogynistic, maga/pro trump, refuses to talk abt po
 
 <!-- BOTTOM BORDER -->
 <p align="center">
-  <img src="https://file.garden/aZm568v4vGLII5mz/tumblr_50e3274d1dd125c40c810b075abda25b_8ee003ff_500__fliter--teal-lightgreen__channel--blue__mode--color.png" width="100%">
+  <img src="https://64.media.tumblr.com/ce9822b2104e77b7bb2a9633127c987d/420effc76989e2af-7b/s2048x3072/1bac3be7f116df776090207b64e2f2b6736a4f03.pnj" width="100%">
 </p>
 alsoooo aha iwc if u r a kaiser wilhem ii fan i rlly Hate him my goat will always be otto von bismarck , and rusame shippers. idk i just dont like that ship, n also ppl who vent w/out permission. iwc on all of theszee unless alr friendz/oomfs ok bye >w<
 
