@@ -8,7 +8,7 @@
 <img src="https://file.garden/aZm568v4vGLII5mz/download__19_-removebg-preview.png" align="middle" width="50"‎ ‎   ‎ ‎ ‎ 
   ‎ ‎ ᶻ 𝗓 𐰁 .ᐟ <a href="https://rentry.co/meineIiebe">01</a> ,, <a href="https://en.pronouns.page/@aeszz">02</a> ,, <a href="https://rentry.co/micha-el">03</a> ,, <a href="https://rentry.co/primehoodlover">04</a> ,,   <a href="https://rentry.co/michaelslovemail">05</a> ,, view on pc!
 <!-- LEFT IMAGE: Aligned left so text flows smoothly directly to its right -->
-<img src="https://file.garden/aZm568v4vGLII5mz/download__18_-removebg-preview.png" align="left" width="36%"  style="max-width:100%;"
+<img src="https://file.garden/aZm568v4vGLII5mz/download__18_-removebg-preview.png" align="left" width="34%"  style="max-width:100%;"
 
 <!-- RIGHT CONTENT: Everything below will wrap cleanly next to the image -->
 <!-- 2. Text Links -->
